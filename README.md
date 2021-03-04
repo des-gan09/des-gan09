@@ -1,4 +1,4 @@
-### Hi there 👋 You have found my github page. Congrats. You are either a recruiter or a lost programmer/developer. If latter, what are you doing here? You're not suppose to be here. Go back to where you came from. :laughing: 
+### Welcome to my github page
   
   My name is Desmond.I am an electrical and computer engineering student, data science enthusiast, and flutter developer beginner. I have experience in Java, Python, C and VHDL. 
 
